@@ -1,5 +1,5 @@
 module.exports = {
-    "port": 8080,
+    "port": 9090,
     "appEndpoint": "http://localhost:3600",
     "apiEndpoint": "http://localhost:3600",
     "jwt_secret": "vase!!erpvase",
